@@ -1,4 +1,4 @@
-USE DATABASE employee_DB;
+USE employee_DB;
 
 /* insert data for department */
 INSERT INTO department (name)

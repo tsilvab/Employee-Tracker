@@ -17,6 +17,10 @@ console.table npm package to print MySQL rows to the console
 *Schema and seed SQL files
 *Application deployed on Heroku
 
-## Walkthrough
+## screenshots
+![Screenshot (19)](https://user-images.githubusercontent.com/78382681/117546626-586a2180-aff9-11eb-8aa3-117efe619ea3.png)
+![Screenshot (17)](https://user-images.githubusercontent.com/78382681/117546633-5c963f00-aff9-11eb-85f6-4f87eb4e3381.png)
+![Screenshot (11)](https://user-images.githubusercontent.com/78382681/117546691-a2eb9e00-aff9-11eb-8031-2088282cede3.png)
+
 
 github: https://github.com/tsilvab/Employee-Tracker.git

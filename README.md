@@ -15,7 +15,7 @@ npm Inquirer package for CLI
 console.table npm package to print MySQL rows to the console
 
 *Schema and seed SQL files
-*Application deployed on Heroku
+
 
 ## screenshots
 ![Screenshot (19)](https://user-images.githubusercontent.com/78382681/117546626-586a2180-aff9-11eb-8aa3-117efe619ea3.png)

@@ -16,7 +16,7 @@ const connection = mysql.createConnection({
 
 connection.connect(function(err){
     if (err) throw err
-    startPrompt();
+    startPromp
 });
 
 function startPrompt() {
